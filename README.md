@@ -1,27 +1,27 @@
-# package_name
+# package_vendas
 
 Description. 
-The package package_name is used to:
-	- 
-	-
+The package package_vendas is used to:
+	- calculo do preco
+	- foramatacao dos valores
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_vendas
 
 ```bash
-pip install package_name
+pip install package_vendas
 ```
 
 ## Usage
 
 ```python
-from package_name import file1_name
-file1_name.my_function()
+from package_vendas import calc_preco
+calc_preco.my_function()
 ```
 
 ## Author
-My_name
+Marcos Barboas
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
